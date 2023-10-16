@@ -117,7 +117,7 @@ Bind the items source of the ListView, and set the required appearance in its It
 ```
 ## How to run this application?
 
-To run this application, you need to first clone the Load-PageContent-into-SfTabView repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
+To run this application, you need to first clone the xamarin-forms-sftabview repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
 
 ## <a name="troubleshooting"></a>Troubleshooting ##
 ### Path too long exception
